@@ -1,3 +1,4 @@
+#C-u-tr-c-d-li-u-v-gi-i-thu
 # Định nghĩa một nút trong danh sách liên kết đơn
 class Node:
     def __init__(self, data):
@@ -64,7 +65,7 @@ class SinglyLinkedList:
         print("None")
 
 
-# ================== Demo ==================
+# ======= Demo =======
 ll = SinglyLinkedList()
 ll.append(10)
 ll.append(20)

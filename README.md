@@ -1,4 +1,4 @@
-#C-u-tr-c-d-li-u-v-gi-i-thu
+#C-u-tr-c-d-li-u-v-gi-i-thu-t
 # Định nghĩa một nút trong danh sách liên kết đơn
 class Node:
     def __init__(self, data):
